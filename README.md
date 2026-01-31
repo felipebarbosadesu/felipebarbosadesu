@@ -93,11 +93,14 @@ My role goes far beyond testing screens: I help teams **prevent risks, define cl
 
 - 📜 **Project Management (PMBOK / PMI Fundamentals)** — SENAI  
 - 🧭 **Agile Leadership & Team Management** — IEL  
-- 🏆 **Best Bug Award** — Tester Work Testathon (São Paulo)  
-- 🤖 **AI & Productivity (Google / Gemini)** — Santander  
-- 🗄️ **SQL (PostgreSQL)** — DataCamp  
-- 🔌 **API Testing with Postman** — Udemy  
-- 🔄 **Azure DevOps CI/CD** — Udemy  
+- 🏆 **Best Bug Award** — Tester Work Testathon - Facebook Meta event (São Paulo)
+- 🏆 **Scholarship Award – Innovative Project Management (USA)** - *LAIOB Global Executive Education* in partnership with *The University of Akron* (2025)
+- 🤖 **AI & Productivity (Google / Gemini)** —  
+- 🗄️ **SQL (PostgreSQL)** — DataCamp - 
+- 🔌 **API Testing with Postman** —   
+- 🔄 **Azure DevOps CI/CD** —
+- 🎓 **Full-Stack Programming** - Infinity School
+- 🎓 **Bachelor's degree in System Analysis** - UCSAL  
 
 ---
 
@@ -121,9 +124,9 @@ Besides QA, I’m also an **English teacher for tech professionals**, helping QA
 <p>
   <a href="https://www.linkedin.com/in/felipebarbosalds">
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Vieira%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Brazil-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Global-22C55E?style=for-the-badge"/>
+  </a> </p>
+  <p><img src="https://img.shields.io/badge/Location-Brazil-16A34A?style=for-the-badge"/></p>
+  <p><img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Global-22C55E?style=for-the-badge"/>
 </p>
 
 🚀 Thanks for stopping by!
