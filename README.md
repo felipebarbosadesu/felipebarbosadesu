@@ -48,7 +48,6 @@ My role goes far beyond testing screens: I help teams **prevent risks, define cl
 ---
 
 ## 🤖 Technologies & Tools
-
 ### 🧪 Testing & QA
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -56,6 +55,19 @@ My role goes far beyond testing screens: I help teams **prevent risks, define cl
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111827"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+</p>
+
+### 🗄️ Data & Performance
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 📋 Management & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
 
 ### 🧰 Development & Automation
@@ -95,10 +107,6 @@ My role goes far beyond testing screens: I help teams **prevent risks, define cl
 - 🧭 **Agile Leadership & Team Management** — IEL  
 - 🏆 **Best Bug Award** — Tester Work Testathon - Facebook Meta event (São Paulo)
 - 🏆 **Scholarship Award – Innovative Project Management (USA)** - *LAIOB Global Executive Education* in partnership with *The University of Akron* (2025)
-- 🤖 **AI & Productivity (Google / Gemini)** —  
-- 🗄️ **SQL (PostgreSQL)** — DataCamp - 
-- 🔌 **API Testing with Postman** —   
-- 🔄 **Azure DevOps CI/CD** —
 - 🎓 **Full-Stack Programming** - Infinity School
 - 🎓 **Bachelor's degree in System Analysis** - UCSAL  
 
